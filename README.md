@@ -6,3 +6,6 @@ hola hechiceros, este es el segundo cambio
 
 
 este es otro cambio
+
+
+modificacion pull rebase y sin rebase
